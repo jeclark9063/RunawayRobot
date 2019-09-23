@@ -1,1 +1,3 @@
 # RunawayRobot
+
+This was the first mini project for AI4R. The project was split up into 4 parts. Part 1 and 2 we were asked to located the position of a robot by observing its movement patterns and predicting its next location. This project exercises Localization - "The act of determining where the robot is located". This assignment utilizes a Kalman Filter to localize the robot. A kalman filter is a two step algorithm that first predicts the location, then measures how off the prediction was. Kalman filters are unimodal models, meaning that there is on estimated point. One of the first applications of the Kalman filter was the Apollo project.
